@@ -1,6 +1,6 @@
 export let fetchCount = 0;
 let SAFE_MODE = true;
-const MAX_FETCHES = 32;
+const MAX_FETCHES = 40;
 
 export function resetFetchCount() {
   fetchCount = 0;
