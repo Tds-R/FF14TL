@@ -72,7 +72,7 @@ FF14に関する単語を含むポストと公式のミラーbotのポストを�
 > - @spamspamspam.bsky.social
 
 - AIイラスト
-- トレンド
+- @nowbreezing.ntw.app
 - @testjp.bsky.social
 - @ai-gyaru.bsky.social
 
