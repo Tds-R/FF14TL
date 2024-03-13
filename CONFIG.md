@@ -27,7 +27,6 @@ FF14に関する単語を含むポストと公式のミラーbotのポストを�
 
 - FF14
 - 暁月
-- 黄金
 - ヒカセン
 - クリコン
 - シルロ
@@ -58,7 +57,7 @@ FF14に関する単語を含むポストと公式のミラーbotのポストを�
 - 友好部族
 - 蛮族クエ
 - 吉P
--  https://bsky.app/profile/ff-xiv-jp-bot.bsky.social
+- https://bsky.app/profile/ff-xiv-jp-bot.bsky.social
 
 # denyList
 
