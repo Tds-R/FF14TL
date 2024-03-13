@@ -70,6 +70,7 @@ FF14に関する単語を含むポストと公式のミラーbotのポストを�
 - AIイラスト
 - トレンド
 - @testjp.bsky.social
+- @ai-gyaru.bsky.social
 
 # safeMode
 
