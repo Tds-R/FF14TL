@@ -66,9 +66,10 @@ FF14に関する単語を含むポストと公式のミラーbotのポストを�
 >
 > - did:plc:1234
 > - @spamspamspam.bsky.social
-> - AIイラスト
-> - トレンド
-> - @testjp.bsky.social
+
+- AIイラスト
+- トレンド
+- @testjp.bsky.social
 
 # safeMode
 
