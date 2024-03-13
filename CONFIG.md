@@ -26,6 +26,7 @@ FF14に関する単語を含むポストと公式のミラーbotのポストを�
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
 - FF14
+- https://bsky.app/profile/ff-xiv-jp-bot.bsky.social
 - 暁月
 - ヒカセン
 - クリコン
@@ -35,7 +36,12 @@ FF14に関する単語を含むポストと公式のミラーbotのポストを�
 - 砕氷戦
 - ルレ
 - エオルゼア
-- 絶
+- バハ
+- テマ
+- アレキ
+- 竜詩
+- オメガ
+- エデン
 - 零式
 - サンクレッド
 - ウリエンジェ
@@ -57,7 +63,6 @@ FF14に関する単語を含むポストと公式のミラーbotのポストを�
 - 友好部族
 - 蛮族クエ
 - 吉P
-- https://bsky.app/profile/ff-xiv-jp-bot.bsky.social
 
 # denyList
 
