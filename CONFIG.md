@@ -82,7 +82,7 @@ FF14に関する単語を含むポストと公式のミラーbotのポストを�
 >
 > Set to `false` if you have higher limits via a paid Cloudflare plan.
 
-false
+true
 
 # avatar
 
