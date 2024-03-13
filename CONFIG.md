@@ -3,19 +3,19 @@
 
 > This is the feed's ID which can be letters, numbers, or dashes. Spaces are not allowed. Maximum length is 15 characters.
 
-emotional-support-pets
+FF14TL
 
 # displayName
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-Emotional Support Pets
+FF14関連フィード
 
 # description
 
 > This is the description of the feed.
 
-Cute animals feed
+FF14に関する単語を含むポストと公式のミラーbotのポストを表示します
 
 # searchTerms
 
@@ -25,12 +25,112 @@ Cute animals feed
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts. To include replies and reposts, you can add the following flags: `https://bsky.app/profile/why.bsky.team +replies +reposts`.
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
-- https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e
-- cats
-- dogs
-- penguins
-- red pandas
-- quokkas
+- FF14
+- https://bsky.app/profile/ff-xiv-jp-bot.bsky.social
+- 暁月
+- 黄金
+- ヒカセン
+- クリコン
+- シルロ
+- オンサル
+- ゴージ
+- 砕氷戦
+- ルレ
+- エオルゼア
+- テマ
+- バハ
+- アレキ
+- 竜詩
+- オメガ
+- タレイヤ
+- 天獄
+- 零式
+- サンクレッド
+- ウリエンジェ
+- ヤシュトラ
+- エスティニアン
+- ラハ
+- クルル
+- タタル
+- アリゼー
+- アルフィノ
+- ロドスト
+- クラフター
+- ギャザラー
+- ギャザクラ
+- フリカン
+- フリーカンパニー
+- 事件屋
+- イフリート
+- タイタン
+- ガルーダ
+- アルテマ
+- アシエン
+- ドルムキマイラ
+- ギルガメッシュ
+- アマジナ
+- モグル・モグ
+- モグルモグ
+- リヴァイアサン
+- ラムウ
+- シヴァ
+- オーディン
+- ラーヴァナ
+- ビスマルク
+- ナイツ
+- ニーズ
+- ニーズヘッグ
+- セフィロト
+- ソフィア
+- ズルワーン
+- スサノオ
+- ラクシュミ
+- 神龍
+- ツクヨミ
+- ヨウジンボウ
+- リオレウス討滅戦
+- 白虎
+- 朱雀
+- 青龍
+- ティタ
+- ティターニア
+- イノセンス
+- ハーデス
+- ルビーウェポン
+- ウォーリアオブライト
+- エメラルドウェポン
+- ダイヤウェポン
+- シタデルボズヤ
+- ゾディアーク
+- ハイデリン
+- 終焉の戦い
+- バルバリシア
+- ルビカンテ
+- ゴルベーザ
+- ゼロムス
+- 終極
+- アスラ
+- パンデモニウム
+- エリクトニオス
+- へスぺロス
+- アマルジャ
+- シルフ
+- コボルド
+- サハギン
+- イクサル
+- グナース
+- モーグリ
+- バヌバヌ
+- ナマズオ
+- アナンタ
+- コウジン
+- ドワーフ
+- キタリ
+- ピクシー
+- アルカソーダラ
+- オミクロン
+- レポリット
+- 吉P
 
 # denyList
 
