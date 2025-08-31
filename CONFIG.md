@@ -25,53 +25,8 @@ FF14に関する単語を含むポストと公式のポストを表示します
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts. To include replies and reposts, you can add the following flags: `https://bsky.app/profile/why.bsky.team +replies +reposts`.
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
-- FF14
+- (FF14|エデン|新生|蒼天|紅蓮|漆黒|暁月|黄金|ヒカセン|クリコン|シルロ|オンサル|ゴージ|砕氷戦|ルレ|エオルゼア|バハ|テマ|アレキ|竜詩|オメガ|エデン|零式|サンクレッド|ウリエンジェ|エスティニアン|ヤシュトラ|グラハ|クルル|タタル|アリゼー|アルフィノ|ロドスト|Lodesstone|クラフター|ギャザラー|ギャザクラ|フリカン|FC|フリーカンパニー|CWLS|事件屋|討滅戦|友好部族|吉P|トライヨラ|ソリューションナイン|モブハン|フォークタワー|コスモエクスプローラー|レポリット|モーグリ|滅|クガネ|リムサ|ウルダハ|グリダニア|イディルシャイア|クロ手帳|ヒューラン|ミドラン|ハイラン|ララフェル|ミコッテ|ヴィエラ|エレゼン|アウラ|ロスガル)
 - [https://bsky.app/profile/ff-xiv-jp-bot.bsky.social](https://bsky.app/profile/jp.finalfantasyxiv.com)
-- エデン
-- 暁月
-- ヒカセン
-- クリコン
-- シルロ
-- オンサル
-- ゴージ
-- 砕氷戦
-- ルレ
-- エオルゼア
-- バハ
-- テマ
-- アレキ
-- 竜詩
-- オメガ
-- エデン
-- 零式
-- サンクレッド
-- ウリエンジェ
-- ヤシュトラ
-- エスティニアン
-- ラハ
-- クルル
-- タタル
-- アリゼー
-- アルフィノ
-- ロドスト
-- クラフター
-- ギャザラー
-- ギャザクラ
-- フリカン
-- フリーカンパニー
-- 事件屋
-- 討滅戦
-- 友好部族
-- 吉P
-- トライヨラ
-- ソリューションナイン
-- モブハン
-- フォークタワー
-- コスモエクスプローラー
-- レポリット
-- モーグリ
-- 滅
-- 
 
 # denyList
 
