@@ -15,7 +15,7 @@ FF14関連フィード
 
 > This is the description of the feed.
 
-FF14に関する単語を含むポストと公式のミラーbotのポストを表示します
+FF14に関する単語を含むポストと公式のポストを表示します
 
 # searchTerms
 
@@ -26,8 +26,8 @@ FF14に関する単語を含むポストと公式のミラーbotのポストを�
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
 - FF14
+- [https://bsky.app/profile/ff-xiv-jp-bot.bsky.social](https://bsky.app/profile/jp.finalfantasyxiv.com)
 - エデン
-- https://bsky.app/profile/ff-xiv-jp-bot.bsky.social
 - 暁月
 - ヒカセン
 - クリコン
@@ -66,6 +66,11 @@ FF14に関する単語を含むポストと公式のミラーbotのポストを�
 - トライヨラ
 - ソリューションナイン
 - モブハン
+- フォークタワー
+- コスモエクスプローラー
+- レポリット
+- モーグリ
+- 滅
 - 
 
 # denyList
